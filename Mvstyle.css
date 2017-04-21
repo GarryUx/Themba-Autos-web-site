@@ -1,0 +1,205 @@
+body{
+	font-family:arial, sans serif;
+	font-size: 1em;
+	line-height: 1.5em;
+	
+}
+html{
+	background-color:#f0f0f0;
+}
+
+h1{
+	text-align:center;
+	padding-top:20px;
+	text-transform:uppercase;
+	font-family:sans-serif;
+	 color: white;
+
+}
+
+#navdiv ul {
+	width: 100;
+	height: 80px;
+	background: #60bae0;
+	line-height: 80px;
+	color:white;
+	margin-right: -2px;
+}
+
+
+#navdiv ul li{
+	list-style-type: none;
+	display: inline-block;
+    float: right;
+}
+
+
+
+
+
+#navdiv ul a{
+	text-decoration: none;
+	color: white;
+	padding: 40px;
+}
+
+
+
+
+#navdiv ul li:hover {
+        background: #daddde;
+        transition: all 0.40s;
+}
+
+#navdiv{
+	opacity: 0.7;
+	margin-top: -14px;
+}
+
+img{
+	width: 12%;
+    margin-left: -65px;
+}
+#search{
+	width: 350px;
+	padding: 15px;
+	border: 1px solid #60bae0;
+	
+}
+#sub{
+	width: 250px;
+	padding: 10px;
+	margin: :20px;
+	background: #60bae0;
+	border: 1px solid #c2c4c5;
+	color: white;
+	cursor: pointer;
+}
+	
+#sub:hover {
+    background: #daddde;
+    transition: all 0.45s;
+}
+
+#head{
+	background-image: url(jbrg.jpg);
+	padding: 50px;
+	margin-top: -12px;
+}
+
+#ovel {
+    
+}
+
+#{}
+
+{
+
+
+}
+#{}
+#{}
+.rightcolumn{
+		background-image: url (car.jpg);
+		float:left;
+}
+
+.leftcolumn{
+	
+	float:right;
+}
+	
+
+.thirdcolumn{
+	margin-bottom: 10px;
+	
+}
+
+.pub1{
+	background-image:url(car2.jpg);
+	text-align: center;
+	padding-right:35px;
+    
+}
+.pub2{
+	background-image:url(car.jpg);
+	text-align: center;
+}
+.pub3{
+	background-image:url(promo.jpg);
+	text-align: center;
+	background-repeat: no-repeat;
+	
+}
+
+footer{
+	text-align:center;
+	font-size: 0.85em;
+	background-color: #60bae0;
+	color: white;
+	padding: 10px 20px;
+	margin-bottom: 10px;
+	margin-top: -5px;
+	opacity: 0.7;
+}
+
+.arc{
+	text-align:center;
+	font-size: 1.5em;
+	margin:20px;
+	padding:20px;
+	display:inline;
+}
+
+.arc{
+	text-align:center;
+	font-size: 1.5em;
+	margin:20px;
+	padding:20px;
+}
+.arc{
+	text-align:center;
+	font-size: 1.5em;
+	margin:20px;
+	padding:20px;
+}
+article{
+	text-align:center;
+	font-size: 1em;
+	margin:0px;
+	padding:0px;
+}
+
+.arc:link, a:visited {
+	display: inline;
+	width: 100px;
+	font-weight:bold;
+	color: white;
+	background-color: transparent;
+	padding: 4px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.arc:hover, a:active {
+	color: #daddde;
+	transition: all 0.45s;
+}
+
+
+
+
+.call{
+	text-align:left;
+	font-size: 1.5em;
+	margin:0px;
+	padding:0px;
+}
+
+
+.banner {
+	
+	background-color: #60bae0;
+	color: white; 
+	padding: 10px 20px;
+	margin-top: -10px;
+}
